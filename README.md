@@ -27,10 +27,11 @@ You need the following...
 ### Test set up
 
 Please have the following installed...
-- [Node.js](https://nodejs.org/en/download/current) (v18+): `node -v`
-- [VSCode](https://code.visualstudio.com/download) (optional): `code .`
-- [Docker](https://docs.docker.com/get-started/get-docker/)
+- [Node.js](https://nodejs.org/en/download/current) (v20+): `node -v`
+- [VSCode](https://code.visualstudio.com/download) (optional, your IDE of choice): `code .`
+- [Docker](https://docs.docker.com/get-started/get-docker/) (optional)
 - [Ollama](https://ollama.com/download)
+- [Git](https://git-scm.com/downloads)
 
 ## Agenda
 
