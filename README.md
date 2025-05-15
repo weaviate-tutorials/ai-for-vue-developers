@@ -20,7 +20,7 @@ We'll use...
 ### Prerequisites
 
 You need the following...
-- Some basic kmowledge of Vue.js (Nuxt.js experience is a plus)
+- Some basic knowledge of Vue.js (Nuxt.js experience is a plus)
 - A fundamental understanding of Web technologies
 - Some JavaScript experience (TypeScript is a plus)
 
