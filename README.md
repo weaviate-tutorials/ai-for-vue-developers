@@ -10,12 +10,13 @@ At the end of this workshop, you too will have an idea of how to go about buildi
 - [Slides]() ⏰ Coming soon
 - [Replit]() ⏰ Coming soon 
 
-### Tools
+### AI Tools
 
-We'll use...
-- Weaviate
-- Nuxt.js
-- OpenAI
+We'll use these AI tools, please create accounts for them in advance
+
+- Weaviate - https://weaviate.io/
+- OpenAI - https://platform.openai.com/docs/overview
+- Voyage AI - https://www.voyageai.com/
 
 ### Prerequisites
 
