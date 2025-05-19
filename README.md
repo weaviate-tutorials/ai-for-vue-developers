@@ -36,12 +36,15 @@ Please have the following installed...
 
 ## Agenda
 
-⏰ Coming soon 
+- [Introduction](/introduction/) - Mostly theory
+- [Building: Part 1](/building-part-one/) - Theory and Practical 
+- [Building: Part 2](/building-part-two) - Theory and Practical 
 
 
 ## 🔦 Resources
 
 - [Weaviate Academy](https://weaviate.io/developers/academy)
+- [Weaviate Knowledge Cards](https://weaviate.io/learn/knowledgecards)
 - [Weaviate x JavaScript](https://weaviate.io/javascript)
 
 ## 📘 Definitions
