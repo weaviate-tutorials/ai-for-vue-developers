@@ -33,6 +33,7 @@ Please have the following installed...
 - [Docker](https://docs.docker.com/get-started/get-docker/) (optional)
 - [Ollama](https://ollama.com/download)
 - [Git](https://git-scm.com/downloads)
+- [ThunderClient](https://www.thunderclient.com/)
 
 ## Agenda
 

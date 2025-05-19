@@ -11,3 +11,4 @@
 
 - [Recipes](https://github.com/weaviate/recipes-ts)
 - [Nuxt App Starter](https://github.com/malgamves/ai-nuxt-pdf)
+- [Furniture Dataset](https://github.com/malgamves/weaviate-servers/blob/agent-data/hono-server/src/furniture.json)
