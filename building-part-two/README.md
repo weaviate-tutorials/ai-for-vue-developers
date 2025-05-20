@@ -10,3 +10,4 @@
 ### Resources
 
 - [Email Agent Recipe](https://github.com/weaviate/recipes-ts/tree/main/agents/llamaindex/email-operations)
+- [Resend](https://resend.com)

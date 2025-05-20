@@ -7,8 +7,7 @@ At the end of this workshop, you too will have an idea of how to go about buildi
 ## Hello Tampa! 
 
 - [Repo](https://github.com/weaviate-tutorials/ai-for-vue-developers)
-- [Slides]() ⏰ Coming soon
-- [Replit]() ⏰ Coming soon 
+- [Slides](https://drive.google.com/file/d/1WoL5x26caN6t-iqFySk31Ce4UbXTqGmj/view?usp=sharing)
 
 ### AI Tools
 
